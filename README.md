@@ -1,4 +1,4 @@
-# Project- Temprature converter
+# Project- Temprature converter(using HTML,CSS and JAVASCRIPT)
 
 <!DOCTYPE html>
 <html lang="en">
